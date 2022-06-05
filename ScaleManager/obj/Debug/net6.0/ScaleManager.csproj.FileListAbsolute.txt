@@ -1,0 +1,124 @@
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\appsettings.json
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\ScaleManager.exe
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\ScaleManager.deps.json
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\ScaleManager.runtimeconfig.json
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\ScaleManager.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\ScaleManager.pdb
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.AppService.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.BatchAI.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Cdn.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Compute.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ContainerInstance.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ContainerRegistry.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ContainerService.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.CosmosDB.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Dns.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.EventHub.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.KeyVault.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Locks.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Monitor.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Msi.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Network.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.PrivateDns.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Redis.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Search.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ServiceBus.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Sql.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.TrafficManager.Fluent.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.csproj.AssemblyReference.cache
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.AssemblyInfoInputs.cache
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.AssemblyInfo.cs
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.csproj.CoreCompileInputs.cache
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\scopedcss\bundle\ScaleManager.styles.css
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.csproj.CopyComplete
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\refint\ScaleManager.dll
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.pdb
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ScaleManager.genruntimeconfig.cache
+C:\Users\evyatarweiss\source\repos\ScaleManager\obj\Debug\net6.0\ref\ScaleManager.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\appsettings.json
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\ScaleManager.exe
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\ScaleManager.deps.json
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\ScaleManager.runtimeconfig.json
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\ScaleManager.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\ScaleManager.pdb
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.AppService.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.BatchAI.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Cdn.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Compute.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ContainerInstance.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ContainerRegistry.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ContainerService.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.CosmosDB.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Dns.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.EventHub.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.KeyVault.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Locks.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Monitor.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Msi.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Network.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.PrivateDns.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Redis.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Search.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.ServiceBus.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Sql.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Azure.Management.TrafficManager.Fluent.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.csproj.AssemblyReference.cache
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.AssemblyInfoInputs.cache
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.AssemblyInfo.cs
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.csproj.CoreCompileInputs.cache
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\scopedcss\bundle\ScaleManager.styles.css
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.csproj.CopyComplete
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\refint\ScaleManager.dll
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.pdb
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ScaleManager.genruntimeconfig.cache
+C:\Users\tacaspi\OneDrive - Microsoft\Desktop\HW2_ScaleManager-main\ScaleManager\obj\Debug\net6.0\ref\ScaleManager.dll
